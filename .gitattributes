@@ -1,0 +1,5 @@
+* text=auto
+*.md text eol=lf
+*.mmd text eol=lf
+# Preserve received source bytes, including original line endings.
+source/records/** -text
